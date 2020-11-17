@@ -1,0 +1,40 @@
+   Department        ID 			Title    		                                       Author		
+						
+             Action     190001                                        Creativity_in_action		            Derek_Cheshire	
+             Action     190015	                             The_Action_Bible	Doug_Mauss_and_Sergio_Cariello
+             Action     190016	Julien's_Primer_of_Drug_Action	                             Claire_D.Advokat
+             Action     190017	Technology_In_Action_Complete 	                                          Alan_Evans 
+
+            Fiction     190002	                      The_Hitta_Next_Door	                                     	        Neicy_P
+            Fiction     190018	                           Then.She.Was.Gone			 Lisa_Jewell 
+            Fiction     190019                                                      The_Hideaway		           Lauren_K.Denton 
+
+           History     190003                                    The_Lessons_of_History	                        	 Will_Durant
+           History     190021        A_History_of_the_World_in_6_Glasses	                                      Tom_Standage	
+           History     190022     A_Short_History_of_Nearly_Everything	                                            Bill_Bryson
+           History     190023	      Battles_that_Changed_History	  DK_And_Smithsonian_Institutio	
+
+             Novels     190004	          FROM_HERE_TO_ETERNITY		                      James_Jones
+             Novels     190008	                            The_Giver_of_Stars	                         	     Jojo_Moyes  
+             Novels     190010	                                  The_Nightingale	                                      Kristin_Hannah 
+             Novels     190011	                  Little_Fires_Everywhere		                           Celeste_Ng
+             Novels     190012	          The_Tattooist_of_Auschwitz		                  Heather_Morris 
+             Novels     190013                                  A_Long_Petal_of_the_Sea		                    Isabel_Allende
+             Novels     190014                                                         The_Institute		                      Stephen_King
+
+Programming    190005             Structured_Programming_with_C++ 	                                          Kjell_Bäckman	
+Programming    190024     C_Programming_Language(2nd_Edition)  Brian_W.Kernighan_and_Dennis_M.Ritchie
+Programming    190025                 Python_Cookbook(Third_Edition)	vvDavid_Beazley_and_Brian_K.Jones
+Programming    190026	                              Righting_Software		                            Juval_Löwy		
+Programming    190031	         Game_Programming_Patterns		                   Robert_Nystrom
+Programming    190032	            The_Pragmatic_Programmer		                       David_Thomas
+                          
+            Science     190007	                                The_Fifth_Science			               Exurb1a
+            Science     190027	clinical_laboratory_science_review	                                                                MLS 
+            Science     190028              Science!(Knowledge_Encyclopedias)	                                                                  DK  
+            Science     190029          Psychological_Science_(Sixth_Edition)	                                    Michael_Gazzaniga 
+            Science     190030	       Biological_Science(7th_Edition)                                                          ScottFreeman
+
+
+             Novels     190033                                                  The_Life_We_Bury                              		                     Allen                                                                                           
+             Novels     190034                             And_Then_There_Were_None                                                      Agatha_Christie
